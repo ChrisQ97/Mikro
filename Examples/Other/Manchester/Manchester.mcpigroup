@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=Receiver\Manchester_Receiver.mcppi
+Project1=Transmitter\Manchester_Transmitter.mcppi
+[ActiveProject]
+Index=0

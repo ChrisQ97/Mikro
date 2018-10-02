@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=CFlash Common\CFlash_Common.mcppi
+Project1=CFlash FAT16\Cf_Fat16_Test.mcppi
+[ActiveProject]
+Index=0

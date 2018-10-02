@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=Basic Realm\Basic_Realm.mcppi
+Project1=EthV2 Demo\EthV2_Demo.mcppi
+Project2=HTTP Demo\HTTP_Demo.mcppi
+[ActiveProject]
+Index=0

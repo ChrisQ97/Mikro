@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=P16F887\SPI_T6963C_240x128.mcppi
+Project1=P18F45K22\SPI_T6963C_240x128.mcppi
+[ActiveProject]
+Index=0

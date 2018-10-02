@@ -1,0 +1,25 @@
+[PROJECTS]
+Count=21
+Project0=ADC on LEDs\ADC_on_LEDs.mcppi
+Project1=Button\Button.mcppi
+Project2=EEPROM (I2C)\I2C Advanced\I2C_Advanced.mcppi
+Project3=EEPROM (I2C)\I2C Simple\I2C_Simple.mcppi
+Project4=Ethernet\Basic Realm\Basic_Realm.mcppi
+Project5=Ethernet\EthV2 Demo\EthV2_Demo.mcppi
+Project6=Ethernet\HTTP Demo\HTTP_Demo.mcppi
+Project7=Glcd\Glcd.mcppi
+Project8=Lcd\Lcd.mcppi
+Project9=Led Blinking\LedBlinking.mcppi
+Project10=Led Blinking\Led_Curtain.mcppi
+Project11=LM35\LM35.mcppi
+Project12=One Wire\OneWire.mcppi
+Project13=Sound\Sound.mcppi
+Project14=Touch Panel\Calibration and Write on Screen\Touch_Panel_Calibration_and_Write.mcppi
+Project15=Touch Panel\Calibration then Write on Screen\Calibration\Touch_Panel_Calibration.mcppi
+Project16=Touch Panel\Calibration then Write on Screen\Write on Screen\Touch_Panel_Write.mcppi
+Project17=UART\UART\UART.mcppi
+Project18=UART\USB UART\USB UART.mcppi
+Project19=USB\HID Read Write Interrupt\USB.mcppi
+Project20=USB\HID Read Write Polling\USB.mcppi
+[ActiveProject]
+Index=0

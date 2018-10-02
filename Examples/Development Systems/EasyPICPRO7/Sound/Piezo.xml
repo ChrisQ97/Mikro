@@ -1,0 +1,13 @@
+<Piezo>
+	<Attributes>
+		<Url></Url>
+		<Image>piezo_buzzer.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick></OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick></OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</Piezo>

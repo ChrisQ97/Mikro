@@ -1,0 +1,13 @@
+<Serial_LCD_2x16_Adapter_Board>
+	<Attributes>
+		<Url>http://www.mikroe.com/add-on-boards/display/serial-lcd-adapter/</Url>
+		<Image>Serial LCD 2x16 Adapter Board.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick>OpenUrl</OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick>OpenUrl</OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</Serial_LCD_2x16_Adapter_Board>

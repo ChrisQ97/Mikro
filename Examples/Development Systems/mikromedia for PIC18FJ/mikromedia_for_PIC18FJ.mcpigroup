@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=Calculator\Calculator.mcppi
+Project1=Hello_world\hello_world.mcppi
+Project2=Simple_Maze\simple_maze.mcppi
+[ActiveProject]
+Index=0

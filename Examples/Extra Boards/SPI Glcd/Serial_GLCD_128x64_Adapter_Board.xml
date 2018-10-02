@@ -1,0 +1,13 @@
+<SPI_GLCD_128x64_Adapter_Board>
+	<Attributes>
+		<Url>http://www.mikroe.com/add-on-boards/display/serial-lcd-glcd-adapter/</Url>
+		<Image>Serial GLCD 128x64 Adapter Board.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick>OpenUrl</OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick>OpenUrl</OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</SPI_GLCD_128x64_Adapter_Board>

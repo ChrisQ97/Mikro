@@ -1,0 +1,50 @@
+[DEVICE]
+Name=P18F448
+Clock=8000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=Can_1st.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[FILES]
+Count=1
+File0=Can_1st.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=1
+File0=..\CAN1 Board.jpg
+ActiveImageIndex=0
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=1
+File0=CAN1_Board.xml
+[OTHER_FILES]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=6
+File0=CAN
+File1=SPI
+File2=ADC
+File3=TFT
+File4=TFT_TouchPanel
+File5=TFT_Defs
+[EXPANDED NODES]
+Node1=Sources
+Node2=Image Files
+Node3=Active Comments Files
+Count=3

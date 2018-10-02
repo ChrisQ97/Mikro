@@ -1,0 +1,13 @@
+<Serial_EEPROM_Board>
+	<Attributes>
+		<Url>http://www.mikroe.com/add-on-boards/storage/eeprom/</Url>
+		<Image>Serial EEPROM Board.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick>OpenUrl</OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick>OpenURL</OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</Serial_EEPROM_Board>

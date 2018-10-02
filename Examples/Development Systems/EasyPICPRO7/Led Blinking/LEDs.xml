@@ -1,0 +1,13 @@
+<LEDs>
+	<Attributes>
+		<Url></Url>
+		<Image>port_io_group.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick></OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick></OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</LEDs>

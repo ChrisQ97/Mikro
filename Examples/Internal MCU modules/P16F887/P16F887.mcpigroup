@@ -1,0 +1,11 @@
+[PROJECTS]
+Count=7
+Project0=EEPROM in MCU\Eeprom.mcppi
+Project1=Flash in MCU\Flash_test.mcppi
+Project2=PWM\Pwm.mcppi
+Project3=Timer0 Interrupt\Timer0_Interrupt.mcppi
+Project4=Timer1 Interrupt\Timer1_Interrupt.mcppi
+Project5=Timer2 Interrupt\Timer2_Interrupt.mcppi
+Project6=WDT\WatchDog_Timer.mcppi
+[ActiveProject]
+Index=0

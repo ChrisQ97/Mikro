@@ -1,0 +1,13 @@
+<LM35>
+	<Attributes>
+		<Url></Url>
+		<Image>LM35.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick></OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick></OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</LM35>

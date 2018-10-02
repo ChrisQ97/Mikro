@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=P16F877A\Boot_Loader.mcppi
+Project1=P16F887\Boot_Loader.mcppi
+[ActiveProject]
+Index=0

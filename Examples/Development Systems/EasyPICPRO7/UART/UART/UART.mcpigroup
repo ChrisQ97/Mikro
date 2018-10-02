@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=UART\UART.mcppi
+Project1=USB UART\USB UART.mcppi
+[ActiveProject]
+Index=0

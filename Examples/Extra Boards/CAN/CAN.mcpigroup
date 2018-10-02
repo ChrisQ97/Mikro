@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=CAN 1st\Can_1st.mcppi
+Project1=CAN 2nd\Can_2nd.mcppi
+[ActiveProject]
+Index=0

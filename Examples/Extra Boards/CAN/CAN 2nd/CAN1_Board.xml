@@ -1,0 +1,13 @@
+<CAN1_Board>
+	<Attributes>
+		<Url>http://www.mikroe.com/add-on-boards/communication/can/</Url>
+		<Image>CAN1 Board.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick>OpenUrl</OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick></OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</CAN1_Board>

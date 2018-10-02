@@ -1,0 +1,35 @@
+[PROJECTS]
+Count=31
+Project0=CAN\CAN 1st\Can_1st.mcppi
+Project1=CAN\CAN 2nd\Can_2nd.mcppi
+Project2=Can Spi\CAN SPI 1st\Can_Spi_1st.mcppi
+Project3=Can Spi\CAN SPI 2nd\Can_Spi_2nd.mcppi
+Project4=Compact Flash\CFlash Common\CFlash_Common.mcppi
+Project5=Compact Flash\CFlash FAT16\Cf_Fat16_Test.mcppi
+Project6=DAC (Soft SPI)\Soft_SPI.mcppi
+Project7=DAC (SPI)\SPI.mcppi
+Project8=EEPROM (I2C)\I2C Advanced\I2C_Advanced.mcppi
+Project9=EEPROM (I2C)\I2C Simple\I2C_Simple.mcppi
+Project10=Keypad 4x4\Keypad4x4.mcppi
+Project11=MMC\MMC Common\MMC_Test.mcppi
+Project12=MMC\MMC Fat16\MMC_Fat16_Test.mcppi
+Project13=Port Expander\PortExpander.mcppi
+Project14=RS485\RS485 Master\RS485_Master_Example.mcppi
+Project15=RS485\RS485 Slave\RS485_Slave_Example.mcppi
+Project16=RTC (Soft I2C)\RTC Read\RTC_Read.mcppi
+Project17=RTC (Soft I2C)\RTC Write\RTC_Write.mcppi
+Project18=SPI Ethernet\p16\HTTP Demo\HTTP_Demo.mcppi
+Project19=SPI Ethernet\p18\Basic Realm\Basic_Realm.mcppi
+Project20=SPI Ethernet\p18\EthV2 Demo\EthV2_Demo.mcppi
+Project21=SPI Ethernet\p18\HTTP Demo\HTTP_Demo.mcppi
+Project22=SPI Glcd\SPI_Glcd.mcppi
+Project23=SPI Lcd\SPI_Lcd.mcppi
+Project24=SPI Lcd8\SPI_Lcd8.mcppi
+Project25=SPI T6963C\SPI T6963C 240x128\P16F887\SPI_T6963C_240x128.mcppi
+Project26=SPI T6963C\SPI T6963C 240x128\P18F45K22\SPI_T6963C_240x128.mcppi
+Project27=SPI T6963C\SPI T6963C 240x64\SPI_T6963C_240x64.mcppi
+Project28=T6963C\T6963C 240x128\P16F887\T6963C_240x128.mcppi
+Project29=T6963C\T6963C 240x128\P18F45K22\T6963C_240x128.mcppi
+Project30=T6963C\T6963C 240x64\T6963C_240x64.mcppi
+[ActiveProject]
+Index=0

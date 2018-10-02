@@ -1,0 +1,16 @@
+[PROJECTS]
+Count=12
+Project0=P16\P16F877A\Boot_Loader.mcppi
+Project1=P16\P16F887\Boot_Loader.mcppi
+Project2=P18\004K\Boot_Loader.mcppi
+Project3=P18\008K\Boot_Loader.mcppi
+Project4=P18\012K\Boot_Loader.mcppi
+Project5=P18\016K\Boot_Loader.mcppi
+Project6=P18\024K\Boot_Loader.mcppi
+Project7=P18\032K\Boot_Loader.mcppi
+Project8=P18\048K\Boot_Loader.mcppi
+Project9=P18\064K\Boot_Loader.mcppi
+Project10=P18\128K\Boot_Loader.mcppi
+Project11=P18F45K22\P18F45K22_Bootloader.mcppi
+[ActiveProject]
+Index=0
